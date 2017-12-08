@@ -1,0 +1,3 @@
+systemctl get-default -- get the default system run mode;
+systemctl set-default multi-user.target -- set the system run mode to multi-user mode, also known as command line mode;
+systemctl set-default graphical.target -- set the system run mode to graphical mode;
