@@ -1,10 +1,19 @@
-#samba服务器的搭建与配置
+samba服务器的搭建与配置
+====
 
-**操作系统：ubuntu16.04（32位）**
+操作系统：ubuntu16.04（32位）
+Table of Contents
+=================
 
-[TOC]
+* [samba服务器的搭建与配置](#samba服务器的搭建与配置)
+* [准备工作](#准备工作)
+* [安装并配置samba](#安装并配置samba)
+* [结束](#结束)
 
-##准备工作
+
+准备工作
+========
+
 ###1、添加新用户newUserName，并根据提示设置新用户的密码newUserPassword:
 ```
 sudo adduser newUserName
