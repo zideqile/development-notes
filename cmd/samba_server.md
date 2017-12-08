@@ -27,7 +27,7 @@ sudo chmod o+w newUserName -R
 注意：命令行这里的newUserName就是新用户目录的名字；
 ```
 
-[返回目录](#table-of-contents)
+[返回目录](#目录)
 
 安装并配置samba
 =================
@@ -58,7 +58,7 @@ sudo vi /etc/samba/smb.conf
 ```
 
 
-[返回目录](#table-of-contents)
+[返回目录](#目录)
 
 结束
 ====
