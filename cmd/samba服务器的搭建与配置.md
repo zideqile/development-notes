@@ -20,6 +20,7 @@ sudo chmod o+w newUserName -R
 ##安装并配置samba
 ###1、命令行安装samba:
 ```
+ sudo apt install util.cifs
  sudo apt install samba
 ```
 ###2、将上面新增的用户newUserName添加至samba中，并根据提示设置密码：
