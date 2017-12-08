@@ -3,7 +3,7 @@ samba服务器的搭建与配置
 
 操作系统：ubuntu16.04（32位）
 
-Table of Contents
+目录
 =================
 
 * [samba服务器的搭建与配置](#samba服务器的搭建与配置)
@@ -26,6 +26,8 @@ sudo adduser newUserName
 sudo chmod o+w newUserName -R
 注意：命令行这里的newUserName就是新用户目录的名字；
 ```
+
+[返回目录](#table-of-contents)
 
 安装并配置samba
 =================
@@ -54,6 +56,9 @@ sudo vi /etc/samba/smb.conf
    create mask = 0766
    directory mask = 0766
 ```
+
+
+[返回目录](#table-of-contents)
 
 结束
 ====
