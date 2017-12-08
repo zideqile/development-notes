@@ -2,6 +2,7 @@ samba服务器的搭建与配置
 ====
 
 操作系统：ubuntu16.04（32位）
+
 Table of Contents
 =================
 
