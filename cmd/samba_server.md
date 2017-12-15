@@ -57,7 +57,11 @@ sudo vi /etc/samba/smb.conf
    directory mask = 0766
 ```
 
-
+4、启动samba服务：
+```
+sudo nmbd restart
+sudo smbd restart
+```
 [返回目录](#目录)
 
 结束
