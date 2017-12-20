@@ -26,9 +26,21 @@ http://lua-users.org/wiki/
 http://lua-users.org/wiki/SampleCode
 
 
+lua
+====
+http://www.runoob.com/manual/lua53doc/contents.html
+http://www.shouce.ren/api/view/a/9969
+http://www.shouce.ren/api/lua/5/
+
+
 nginx入门
 ==========
 http://www.cnblogs.com/hjslovewcl/p/3275378.html
+
+
+nginx官方中文手册
+==================
+http://www.shouce.ren/api/view/a/13421
 
 
 nginx api
