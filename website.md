@@ -43,6 +43,11 @@ nginx官方中文手册
 http://www.shouce.ren/api/view/a/13421
 
 
+nginx中文文档
+=============
+http://tengine.taobao.org/nginx_docs/cn/docs/
+
+
 nginx api
 =========
 https://www.nginx.com/resources/wiki/extending/api
