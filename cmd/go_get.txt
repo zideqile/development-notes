@@ -1,3 +1,3 @@
 for some private repository,you must input your name and passwd of account, then you can do like this:
 
-env GIT_TERMINAL_PROMPT=1 go get git.chinamaincloud.com/xufei/go-rtmp-client
+env GIT_TERMINAL_PROMPT=1 go get git.xxx.com/somebody/repname
